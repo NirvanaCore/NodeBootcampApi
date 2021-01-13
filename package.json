@@ -1,5 +1,5 @@
 {
-  "name": "Bootcamp_Api",
+  "name": "bootcamp_api",
   "version": "1.0.0",
   "description": "Bootcamp Api Backend Code",
   "main": "server.js",
