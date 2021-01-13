@@ -1,0 +1,19 @@
+{
+  "name": "Bootcamp_Api",
+  "version": "1.0.0",
+  "description": "Bootcamp Api Backend Code",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev":"nodemon server"
+  },
+  "author": "Nirvana Core <nirvanacore7@gmail.com> (http://nirvanacore.in/)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
